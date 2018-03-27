@@ -1,0 +1,24 @@
+{
+  "name": "rtistic",
+  "version": "1.0.0",
+  "description": "An art bot!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arocho/rtistic.git"
+  },
+  "keywords": [
+    "bot",
+    "art"
+  ],
+  "author": "Alli Arocho, Rogelio E. Cardona-Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arocho/rtistic/issues"
+  },
+  "homepage": "https://github.com/arocho/rtistic#readme"
+}
